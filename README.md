@@ -4,7 +4,7 @@
 
 目前还未上传pypi，只提供mac环境下nlp版支持。
 
-在已经安装tensorflow2.0的环境执行：
+在**已经安装tensorflow2.0.0**的环境执行：
 
 ```bash
 pip install wheel_houses/delta_didi-0.2-cp36-cp36m-macosx_10_7_x86_64.whl
