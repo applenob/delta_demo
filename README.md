@@ -6,16 +6,8 @@ mac上目前addons有bug，因此暂不支持。
 
 在**已经安装tensorflow2.0.0**的环境执行：
 
-mac:
-
 ```bash
 pip install delta-nlp
-```
-
-linux:
-
-```bash
-pip insatll wheel_house/delta_nlp-0.2-cp36-cp36m-manylinux1_x86_64.whl
 ```
 
 ## 生成数据
