@@ -2,14 +2,14 @@
 
 ## 安装
 
-目前还未上传pypi。(mac上目前addons有bug)
+mac上目前addons有bug，因此暂不支持。
 
 在**已经安装tensorflow2.0.0**的环境执行：
 
 mac:
 
 ```bash
-pip install wheel_house/delta_nlp-0.2-cp36-cp36m-macosx_10_7_x86_64.whl
+pip install delta-nlp
 ```
 
 linux:
